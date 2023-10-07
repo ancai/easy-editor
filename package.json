@@ -1,0 +1,12 @@
+{
+  "name": "easy-editor",
+  "version": "1.0.0",
+  "description": "a tiny、efficient、light weight Rich Text Editor for personal blog or inner site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
